@@ -1,0 +1,22 @@
+[
+  {
+    "key": "uygulamaAnasayfa",
+    "androidValue": "com.gratis.android:id/btnBeauty",
+    "androidType": "id",
+    "iosValue": "",
+    "iosType": ""
+  },
+  {
+    "key": "CargoText",
+    "androidValue": "//*[@text='81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları']",
+    "androidType": "xpath"
+  }
+]
+
+
+
+
+
+
+
+
