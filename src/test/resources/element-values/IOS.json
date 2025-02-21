@@ -12,5 +12,15 @@
     "androidType": "",
     "iosValue": "**/XCUIElementTypeButton[`label == \"İzin Ver\"`]",
     "iosType": "classChain"
+  },
+  {
+    "key": "dashboardIOS",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[@name=\"81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları\"]",
+    "iosType": "xpath"
   }
 ]
+
+
+

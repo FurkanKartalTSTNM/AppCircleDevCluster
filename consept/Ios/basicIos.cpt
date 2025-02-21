@@ -1,3 +1,3 @@
 # Uygulama baslatilir IOS
-* "uygulamaKullanirkenTakipIzinver" li element varsa tıkla
-* "uygulamaIzinver" li element varsa tıkla
+* Check if element "dashboardIOS" exists
+* "dashboardIOS" li element varsa tıkla
