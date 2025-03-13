@@ -92,7 +92,7 @@ public class HookImpl {
 
             }
         } else {
-            String hubURL = "http://hub.testinium.io/wd/hub";
+            String hubURL = "http://hub-devcluster.testinium.io/wd/hub";
             DesiredCapabilities capabilities = new DesiredCapabilities();
 
             System.out.println("key:" + System.getenv("key"));
