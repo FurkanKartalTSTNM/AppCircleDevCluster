@@ -136,7 +136,7 @@ public class HookImpl {
                 //capabilities.setCapability("bundleId", "com.pharos.gratis.uat");
                 capabilities.setCapability("usePrebuiltWDA",true);
                 capabilities.setCapability("useNewWDA", false);
-                capabilities.setCapability("autoAcceptAlerts",false);
+                capabilities.setCapability("autoAcceptAlerts",true);
                 //capabilities.setCapability(MobileCapabilityType.NEW_COMMAND_TIMEOUT, 5);
                 appiumDriver = new IOSDriver(new URL(hubURL), capabilities);
             }
