@@ -1,4 +1,4 @@
-# Uzun Seneryo(DenizBank)
+# Uzun SeneryoDenizBank
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "DevButton"
 * Element var mı kontrol et "DevButton"
@@ -21,7 +21,7 @@
 * Elementin yüklenmesini bekle "TekrarDene"
 * Element var mı kontrol et "TekrarDene"
 
-# Kısa Senaryo(DenizBank)
+# Kısa SenaryoDenizBank
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "DevButton"
 * Element var mı kontrol et "DevButton"
