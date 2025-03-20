@@ -10,15 +10,15 @@ Uzun SeneryoDenizBank
 tags:Uzun SeneryoDenizBank
 * Uzun SeneryoDenizBank
 
-Kısa SenaryoDenizBank
+Kisa SenaryoDenizBank
 -------------
-tags:Kısa SenaryoDenizBank
-* Kısa SenaryoDenizBank
+tags:Kisa SenaryoDenizBank
+* Kisa SenaryoDenizBank
 
 Kısa SenaryoTomDigital
 -------------
-tags:Kısa SenaryoTomDigital
-* Kısa SenaryoTomDigital
+tags:Kisa SenaryoTomDigital
+* Kisa SenaryoTomDigital
 
 Uzun SeneryoTomDigital
 -------------

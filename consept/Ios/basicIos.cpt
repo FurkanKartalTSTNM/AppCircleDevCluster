@@ -1,11 +1,11 @@
-# Kısa SenaryoDenizBank
+# Kisa SenaryoDenizBank
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "DevButton"
 * Element var mı kontrol et "DevButton"
 * "DevButton" li element varsa tıkla
 
 
-# Kısa SenaryoTomDigital
+# Kisa SenaryoTomDigital
 * "2" saniye bekle
 * Elementin yüklenmesini bekle "hadiBaslaButton"
 * Element var mı kontrol et "hadiBaslaButton"
