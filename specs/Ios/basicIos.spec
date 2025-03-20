@@ -5,7 +5,12 @@ Created by n100922 on 11.02.2025
 This is an executable specification file which follows markdown syntax.
 Every heading in this file denotes a scenario. Every bulleted point denotes a step.
      
-OpenAppIos
+Uzun Seneryo(DenizBank)
 ----------------
-tags:OpenAppIos
-* Uygulama baslatilir IOS
+tags:Uzun Seneryo(DenizBank)
+* Uzun Seneryo(DenizBank)
+
+Kısa Senaryo(DenizBank)
+-------------
+tags:Kısa Senaryo(DenizBank)
+* Kısa Senaryo(DenizBank)

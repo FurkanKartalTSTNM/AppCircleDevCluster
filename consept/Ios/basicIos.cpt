@@ -1,3 +1,28 @@
-# Uygulama baslatilir IOS
+# Uzun Seneryo(DenizBank)
 * "2" saniye bekle
+* Elementin yüklenmesini bekle "DevButton"
+* Element var mı kontrol et "DevButton"
+* Elementin yüklenmesini bekle "TestiniumUatButton"
+* Element var mı kontrol et "TestiniumUatButton"
+* Elementin yüklenmesini bekle "TestiniumPreprodButton"
+* Element var mı kontrol et "TestiniumPreprodButton"
+* Elementin yüklenmesini bekle "DenizUatButton"
+* Element var mı kontrol et "DenizUatButton"
+* Elementin yüklenmesini bekle "IntertechUatButton"
+* Element var mı kontrol et "IntertechUatButton"
+* Elementin yüklenmesini bekle "DenizAgPreprod"
+* Element var mı kontrol et "DenizAgPreprod"
+* Elementin yüklenmesini bekle "IntertechPreprod"
+* Element var mı kontrol et "IntertechPreprod"
+* Elementin yüklenmesini bekle "SwitchButton"
+* Element var mı kontrol et "SwitchButton"
+* "DevButton" li element varsa tıkla
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "TekrarDene"
+* Element var mı kontrol et "TekrarDene"
+
+# Kısa Senaryo(DenizBank)
+* "2" saniye bekle
+* Elementin yüklenmesini bekle "DevButton"
+* Element var mı kontrol et "DevButton"
 * "DevButton" li element varsa tıkla

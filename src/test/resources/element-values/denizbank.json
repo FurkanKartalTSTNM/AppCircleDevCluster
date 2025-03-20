@@ -5,7 +5,70 @@
     "androidType": "",
     "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Dev\")]",
     "iosType": "xpath"
+  },
+  {
+    "key": "TestiniumUatButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Testinium Uat\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "TestiniumPreprodButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Testinium Preprod\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "DenizUatButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"DenizAG UAT\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "IntertechUatButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Intertech UAT\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "DenizAgPreprod",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"DenizAG Preprod\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "IntertechPreprod",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Intertech PreProd\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "SwitchButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeApplication[@name=\"DenizMobile\"]/XCUIElementTypeWindow/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther/XCUIElementTypeOther[6]/XCUIElementTypeSwitch",
+    "iosType": "xpath"
+  },
+
+  {
+    "key": "TekrarDene",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Tekrar Dene\")]",
+    "iosType": "xpath"
   }
+
+
+
+
+
+
 ]
 
 
