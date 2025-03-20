@@ -1,0 +1,12 @@
+[
+  {
+    "key": "DevButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Dev\")]",
+    "iosType": "xpath"
+  }
+]
+
+
+
