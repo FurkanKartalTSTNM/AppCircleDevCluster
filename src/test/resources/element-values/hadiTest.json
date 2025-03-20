@@ -1,0 +1,61 @@
+[
+  {
+    "key": "hadiBaslaButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Hadi Başla\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilerleButton1",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"İlerle\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilerleButton2",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"İlerle\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilerleButton3",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"İlerle\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilerleButton4",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"İlerle\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilerleButton5",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"İlerle\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "ilerleButton6",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"İlerle\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "KesfetButton",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeStaticText[contains(@name, \"Keşfet\")]",
+    "iosType": "xpath"
+  }
+]
+
+
+
