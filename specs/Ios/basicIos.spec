@@ -20,7 +20,7 @@ Kısa SenaryoTomDigital
 tags:Kısa SenaryoTomDigital
 * Kısa SenaryoTomDigital
 
-Uzun SeneryoDenizBank
+Uzun SeneryoTomDigital
 -------------
-tags:Uzun SeneryoDenizBank
-* Uzun SeneryoDenizBank
+tags:Uzun SeneryoTomDigital
+* Uzun SeneryoTomDigital
