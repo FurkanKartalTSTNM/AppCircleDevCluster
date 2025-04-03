@@ -24,3 +24,11 @@ Uzun SeneryoTomDigital
 -------------
 tags:Uzun SeneryoTomDigital
 * Uzun SeneryoTomDigital
+
+
+Kisa Senaryo Gratis
+----------
+tags:Kisa Senaryo Gratis
+
+* markalar tiklanir(IOS)
+* kampanyalar tiklanir(IOS)

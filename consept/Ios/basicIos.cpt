@@ -61,3 +61,14 @@
 * Elementin yüklenmesini bekle "KesfetButton"
 * Element var mı kontrol et "KesfetButton"
 * "2" saniye bekle
+
+
+# markalar tiklanir(IOS)
+* Elementin yüklenmesini bekle "markalarIOS"
+* Elementine tıkla "markalarIOS"
+* "1" saniye bekle
+
+# kampanyalar tiklanir(IOS)
+* Elementin yüklenmesini bekle "kampanyalarIOS"
+* Elementine tıkla "kampanyalarIOS"
+* "1" saniye bekle

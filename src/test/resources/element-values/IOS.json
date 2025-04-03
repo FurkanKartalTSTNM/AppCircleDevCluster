@@ -19,6 +19,20 @@
     "androidType": "",
     "iosValue": "//XCUIElementTypeStaticText[@name=\"81 ilde mağazadan ÜCRETSİZ TESLİMAT fırsatları\"]",
     "iosType": "xpath"
+  },
+  {
+    "key": "markalarIOS",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"Markalar\")]",
+    "iosType": "xpath"
+  },
+  {
+    "key": "kampanyalarIOS",
+    "androidValue": "",
+    "androidType": "",
+    "iosValue": "//XCUIElementTypeButton[contains(@name, \"Kampanyalar\")]",
+    "iosType": "xpath"
   }
 ]
 
