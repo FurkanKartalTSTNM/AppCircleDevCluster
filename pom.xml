@@ -10,7 +10,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>23</java.version>
+        <java.version>11</java.version>
         <gauge.version>0.11.1</gauge.version>
         <gauge.plugin.version>1.4.1</gauge.plugin.version>
         <appium.version>7.0.0</appium.version>
