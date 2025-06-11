@@ -26,17 +26,9 @@
             <version>${reflections.version}</version>
         </dependency>
 
-        <dependency>
-            <groupId>org.apache.poi</groupId>
-            <artifactId>poi-ooxml</artifactId>
-            <version>5.0.0</version>
-        </dependency>
 
-        <dependency>
-            <groupId>org.junit.jupiter</groupId>
-            <artifactId>junit-jupiter-engine</artifactId>
-            <version>${junit.version}</version>
-        </dependency>
+
+
         <dependency>
             <groupId>com.thoughtworks.gauge</groupId>
             <artifactId>gauge-java</artifactId>
@@ -46,11 +38,6 @@
             <groupId>io.appium</groupId>
             <artifactId>java-client</artifactId>
             <version>${appium.version}</version>
-        </dependency>
-        <dependency>
-            <groupId>com.google.appengine</groupId>
-            <artifactId>appengine-api-1.0-sdk</artifactId>
-            <version>1.9.64</version>
         </dependency>
 
 
