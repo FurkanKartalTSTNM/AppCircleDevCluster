@@ -10,15 +10,21 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <java.version>11</java.version>
+        <java.version>23</java.version>
         <gauge.version>0.9.1</gauge.version>
         <gauge.plugin.version>1.4.1</gauge.plugin.version>
         <appium.version>7.0.0</appium.version>
         <junit.version>5.1.0</junit.version>
         <log4j.version>1.7.30</log4j.version>
+        <reflections.version>0.10.2</reflections.version>
     </properties>
 
     <dependencies>
+        <dependency>
+            <groupId>org.reflections</groupId>
+            <artifactId>reflections</artifactId>
+            <version>${reflections.version}</version>
+        </dependency>
         <dependency>
             <groupId>org.apache.poi</groupId>
             <artifactId>poi</artifactId>
