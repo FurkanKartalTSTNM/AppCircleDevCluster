@@ -1,4 +1,4 @@
 # Uygulama baslatilir Android
 //* "permissionDenyBtn" li element varsa tıkla yoksa devam et
-* "uygulamaAnasayfa" icin sayac tut
+* "2" saniye bekle
 * Elementin yüklenmesini bekle "CargoText"
