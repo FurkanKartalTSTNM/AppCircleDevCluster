@@ -92,7 +92,8 @@ public class HookImpl {
 
             }
         } else {
-            String hubURL = "http://host.docker.internal:4444/wd/hub";
+            //String hubURL = "http://host.docker.internal:4444/wd/hub";
+            String hubURL = "http://localhost:4444/wd/hub";
             DesiredCapabilities capabilities = new DesiredCapabilities();
 
             System.out.println("key:" + System.getenv("key"));
