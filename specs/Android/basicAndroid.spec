@@ -21,4 +21,4 @@ tags:Failll
 * Uygulama baslatilir Android
 * Uygulama baslatilir Android
 * Uygulama baslatilir Android
-* Uygulama baslatilir Android
+* Uygulama baslatilir Android Fail
