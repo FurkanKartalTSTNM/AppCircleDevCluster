@@ -2,3 +2,11 @@
 //* "permissionDenyBtn" li element varsa tıkla yoksa devam et
 * "uygulamaAnasayfa" icin sayac tut
 * Elementin yüklenmesini bekle "CargoText"
+
+
+
+
+# Uygulama baslatilir Android Fail
+//* "permissionDenyBtn" li element varsa tıkla yoksa devam et
+* "uygulamaAnasayfaFail" icin sayac tut
+* Elementin yüklenmesini bekle "CargoTextFail"
